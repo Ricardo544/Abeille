@@ -1,6 +1,6 @@
 # Abeille
 
-Version master en développement permanent.
+Mid March Release 2019.
 
 ## Cagnotte pour acheter des équipements pour supporter le développement
 
